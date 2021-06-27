@@ -5,6 +5,7 @@
 
 👨‍💻 I enjoy learning about new technologies and develop quirky **open source** projects. In 2021 till now, I am learning **Next.js**, **SASS**, **GraphQL** and **GoLang**.
 
+Currently in my free time I am working on [Texties](https://texties.netlify.app/) which is an SMS based note taking web app.
 
 ## 🛠️ Skills
 
